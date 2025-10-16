@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋! I'm Víctor — Welcome to my Tech Space 💻</h2>
+<h2 align="center">Hi 👋! I'm Víctor — Welcome to my Tech Space</h2>
 
 ###
 
 <p align="center">
-  Passionate about clean code, system optimization and technology that works efficiently.  
-  I focus on **quality, performance, and structure** in every project — no noise, just results.
+  I’m an informático obsesionado por la **calidad**, la **eficiencia** y el **orden**.  
+  Mi enfoque: código limpio, arquitectura clara y resultados medibles.
 </p>
 
 ###
@@ -21,6 +21,7 @@
 ###
 
 <div align="left">
+  <!-- Tecnologías que dominas / usas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
@@ -38,20 +39,28 @@
 
 ###
 
-<div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" /></a>
+<div align="center">
+  <!-- Enlaces de contacto / perfiles -->
+  <a href="https://www.linkedin.com/in/victor-renaudin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+  <a href="https://linktr.ee/victorkiny"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=2EB67D&logoColor=white&style=for-the-badge" height="35" alt="Linktree logo" /></a>
+  <a href="mailto:tu-email@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" /></a>
+  <!-- Si tienes otros perfiles: Twitch, Discord, YouTube, etc., los agregas igual -->
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/output/snake.svg" alt="Snake animation" />
-</div>
+<!-- Aquí va el snake animado generado -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
+
+###
+
 
 ###

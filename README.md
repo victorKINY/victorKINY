@@ -2,9 +2,7 @@
 
 *Esto empezó como todo, trasteando desde que tengo memoria y uso de ratón. Con más de 10 años de experiencia, con variedad de productos editados y configurados. Desde configuraciones de optimización de Windows y Android, en la búsqueda del Máximo Rendimiento. Creación de Logos, Banners, diseño para diferentes redes sociales y plataformas de creación de contenido. Clip de OBS, Discord, Bots, canales, registros, auditorías, configuraciones de Steam, personalización de perfiles, Instagram, historias, publicaciones, edición de fotos, creación de logos para empresas, canales... Aprendí de manera autodidacta, a como ayudar a la gente, de manera profesional. Más que una ilusión, es una forma de vida, atado a esto que nos hace CAMINO. Transformando el aprendizaje, al placer de divertirse con un diseño a una BUENA CONFIGURACIÓN. Adicto a intentar que todo salga sobre un buen DISEÑO, que ilustre MI CAMINO. Gracias por tu colaboración, todo este esfuerzo con el tiempo se refleja, la pasará el mismo.*
 
-*Cuando una ilusión se guarda en JPG 🎮 VK*
-
-🌐 [victorkiny.com](https://victorkiny.com/)
+**Técnico IT (soporte multilingüe ES/FR/EN + operaciones SOC) en transición hacia desarrollo web y agentes de IA.**
 
 ## 🛠️ Stack
 

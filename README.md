@@ -1,4 +1,32 @@
-<h2 align="center">Hi 👋! My name is Victor & Welcom</h2>
+# Hola 👋 Soy Victor (victorKINY)
+
+Técnico IT (soporte multilingüe ES/FR/EN + operaciones SOC) en transición hacia **desarrollo web y agentes de IA**. Autodidacta, más de 10 años trasteando con tecnología, diseño gráfico y automatización.
+
+📍 Salamanca, España · 🌐 [victorkiny.com](https://victorkiny.com)
+
+## 🛠️ Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+## 📌 Proyectos
+
+- **[Agente de Notas](https://github.com/victorKINY/-Agente-de-Notas)** — Foto de nota manuscrita → IA clasifica → Google Calendar / Tasks / Sheets, automático y gratis.
+- **[discordbotchm](https://github.com/victorKINY/discordbotchm)** — Bot de Discord (roles, tickets de soporte, moderación).
+- **[AJ Motors Salamanca](https://ajmotorssalamanca.com)** — Web real de negocio: catálogo de servicios, contacto, RGPD.
+- **[Kiny3D](https://kiny3d.com)** — Impresión 3D e ingeniería aditiva, tienda WooCommerce en lanzamiento.
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorkinyvk)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/user/vrenagfx)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/victorkinyVK)
 
 ###
 

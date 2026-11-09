@@ -1,6 +1,6 @@
 # ⚡ Software Developer & Autonomous Systems Architect
 
-> Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **[victorkiny.com](https://victorkiny.com/)** — Salamanca, España.
+> Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **<a href="https://victorkiny.com/" target="_blank" rel="noopener noreferrer">victorkiny.com</a>** — Salamanca, España.
 
 ---
 
@@ -8,10 +8,10 @@
 
 | Proyecto | Descripción Técnica | Stack / Estado |
 | :--- | :--- | :--- |
-| **[KORE](https://victorkiny.com/#kore)** | Sistema modular de gestión operativa (CRM, agenda, facturación). | Producción / Privado |
-| **[Agente de Notas IA](https://github.com/victorKINY/Agente-de-Notas-Foto-IA)** | Pipeline con visión por computador para clasificación automática. | Open Source |
-| **[KINY3D](https://kiny3d.com)** | Ecosistema de ingeniería aditiva e impresión 3D automatizada. | En Lanzamiento |
-| **[AJ Motors](https://ajmotorssalamanca.com)** | Arquitectura web de ultra-rendimiento para taller mecánico local. | Producción |
+| **<a href="https://victorkiny.com/#kore" target="_blank" rel="noopener noreferrer">KORE</a>** | Sistema modular de gestión operativa (CRM, agenda, facturación). | Producción / Privado |
+| **<a href="https://github.com/victorKINY/Agente-de-Notas-Foto-IA" target="_blank" rel="noopener noreferrer">Agente de Notas IA</a>** | Pipeline con visión por computador para clasificación automática. | Open Source |
+| **<a href="https://kiny3d.com" target="_blank" rel="noopener noreferrer">KINY3D</a>** | Ecosistema de ingeniería aditiva e impresión 3D automatizada. | En Lanzamiento |
+| **<a href="https://ajmotorssalamanca.com" target="_blank" rel="noopener noreferrer">AJ Motors</a>** | Arquitectura web de ultra-rendimiento para taller mecánico local. | Producción |
 
 ---
 
@@ -26,6 +26,6 @@
 
 ### 🌐 Direct Links & Core Web
 
-* **Web Principal:** **[victorkiny.com](https://victorkiny.com/)** *(Plataforma central de servicios y despliegues)*
-* **Comunidad / Soporte:** [Discord (Chachitos Mafia)](https://discord.gg/stwTKAw)
-* **Canales Técnicos:** [GitHub](https://github.com/victorKINY) · [X (@VictorKinyVK)](https://x.com/VictorKinyVK) · [YouTube](https://www.youtube.com/user/victorkiny)
+* **Web Principal:** **<a href="https://victorkiny.com/" target="_blank" rel="noopener noreferrer">victorkiny.com</a>** *(Plataforma central de servicios y despliegues)*
+* **Comunidad / Soporte:** <a href="https://discord.gg/stwTKAw" target="_blank" rel="noopener noreferrer">Discord (Chachitos Mafia)</a>
+* **Canales Técnicos:** <a href="https://github.com/victorKINY" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://x.com/VictorKinyVK" target="_blank" rel="noopener noreferrer">X (@VictorKinyVK)</a> · <a href="https://www.youtube.com/user/victorkiny" target="_blank" rel="noopener noreferrer">YouTube</a>

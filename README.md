@@ -1,6 +1,6 @@
 # ⚡ Software Developer & Autonomous Systems Architect
 
-> Enfoque estricto en rendimiento crítico, arquitecturas modulares sin dependencias infladas y control absoluto del dato. Basado en **Salamanca, España**.
+> Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **[victorkiny.com](https://victorkiny.com/)** — Salamanca, España.
 
 ---
 
@@ -24,8 +24,8 @@
 
 ---
 
-### 🌐 Direct Links
+### 🌐 Direct Links & Core Web
 
-* **Web Principal:** [victorkiny.com](https://victorkiny.com/)
+* **Web Principal:** **[victorkiny.com](https://victorkiny.com/)** *(Plataforma central de servicios y despliegues)*
 * **Comunidad / Soporte:** [Discord (Chachitos Mafia)](https://discord.gg/stwTKAw)
 * **Canales Técnicos:** [GitHub](https://github.com/victorKINY) · [X (@VictorKinyVK)](https://x.com/VictorKinyVK) · [YouTube](https://www.youtube.com/user/victorkiny)

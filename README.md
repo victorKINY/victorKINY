@@ -2,7 +2,10 @@
 
 ### `VICTORKINY // KINYKORE`
 
-**[WEB](https://victorkiny.com/)** · **[KORE](https://kore.victorkiny.com/)** · **[X](https://x.com/victorkinyVK)** · **[YOUTUBE](https://www.youtube.com/@victorkiny)**
+<a href="https://victorkiny.com/"><code>[ WEB ]</code></a>
+<a href="https://kore.victorkiny.com/"><code>[ KORE ]</code></a>
+<a href="https://x.com/victorkinyVK"><code>[ X ]</code></a>
+<a href="https://www.youtube.com/@victorkiny"><code>[ YOUTUBE ]</code></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.gif" width="400" alt="KORE Core System">
@@ -15,7 +18,6 @@
 </p>
 
 </div>
-
 ---
 
 ### ⚡ Software Developer & Autonomous Systems Architect

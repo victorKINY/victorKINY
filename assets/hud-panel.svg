@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340" role="img" aria-label="VICTORKINY KINYKORE System HUD">
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+    <style>
+      .bg { fill: #0B0F17; stroke: #263244; stroke-width: 1.5; }
+      .card { fill: #0F1520; stroke: #1F2A3C; stroke-width: 1; }
+      .title { fill: #F8FAFC; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; font-weight: 700; letter-spacing: 1px; }
+      .sub { fill: #94A3B8; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; }
+      .label { fill: #38BDF8; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.2px; }
+      .val { fill: #E2E8F0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; font-weight: 600; }
+      .pill-bg { fill: #112233; stroke: #0284C7; stroke-width: 0.8; }
+      .pill-txt { fill: #7DD3FC; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; }
+      .bar-track { fill: #162032; }
+      .bar-fill { fill: #38BDF8; }
+    </style>
+  </defs>
+
+  <!-- Marco principal -->
+  <rect x="1" y="1" width="818" height="338" rx="8" class="bg" />
+  <rect x="1" y="1" width="818" height="338" rx="8" fill="url(#grid)" />
+
+  <!-- Cabecera superior -->
+  <text x="24" y="30" class="title">VICTORKINY // KINYKORE</text>
+  <text x="24" y="47" class="sub">SYSTEMS ARCHITECTURE · SELF-HOSTED TOOLING · AUTOMATION · SALAMANCA</text>
+  <rect x="656" y="17" width="140" height="24" rx="4" class="pill-bg" />
+  <text x="726" y="33" text-anchor="middle" class="pill-txt">NODE 22 · SQLITE WAL</text>
+
+  <!-- Panel izquierdo: Módulos del ecosistema (ciclo en 2 estados) -->
+  <rect x="24" y="66" width="384" height="248" rx="6" class="card" />
+  <text x="40" y="88" class="label">CORE MODULES</text>
+
+  <!-- Estado 1 (0s - 6s) -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.48;0.5;0.98;1" dur="12s" repeatCount="indefinite" />
+    <text x="40" y="116" class="val">01. KORE</text>
+    <text x="40" y="133" class="sub">ERP modular · clientes, agenda, facturación, PDF, RBAC</text>
+    <text x="40" y="149" class="pill-txt">STATUS: VALIDATION & DEPLOYMENT PLAN</text>
+
+    <line x1="40" y1="164" x2="392" y2="164" stroke="#1E293B" stroke-width="1" />
+
+    <text x="40" y="188" class="val">02. AGENTE DE NOTAS IA</text>
+    <text x="40" y="205" class="sub">Clasificación desde imagen a Calendar, Tasks y Sheets</text>
+    <text x="40" y="221" class="pill-txt">STACK: APPS SCRIPT · GEMINI API</text>
+
+    <line x1="40" y1="236" x2="392" y2="236" stroke="#1E293B" stroke-width="1" />
+
+    <text x="40" y="260" class="val">03. KINY3D & AJ MOTORS</text>
+    <text x="40" y="277" class="sub">CAD / impresión 3D y despliegue web en VPS Linux</text>
+    <text x="40" y="293" class="pill-txt">STACK: FUSION 360 · CADDY · SYSTEMD</text>
+  </g>
+
+  <!-- Estado 2 (6s - 12s) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.48;0.5;0.98;1" dur="12s" repeatCount="indefinite" />
+    <text x="40" y="116" class="val">ISOLATION & SECURITY</text>
+    <text x="40" y="133" class="sub">Una instancia y BD por cliente · permisos Linux estrictos</text>
+    <text x="40" y="149" class="pill-txt">MODE: WAL · BEGIN IMMEDIATE</text>
+
+    <line x1="40" y1="164" x2="392" y2="164" stroke="#1E293B" stroke-width="1" />
+
+    <text x="40" y="188" class="val">CONTINUITY & BACKUPS</text>
+    <text x="40" y="205" class="sub">Copias verificadas con integridad, cifrado y SFTP</text>
+    <text x="40" y="221" class="pill-txt">ACCESS: TUNNEL SSH 127.0.0.1:3090</text>
+
+    <line x1="40" y1="236" x2="392" y2="236" stroke="#1E293B" stroke-width="1" />
+
+    <text x="40" y="260" class="val">QUALITY GATES</text>
+    <text x="40" y="277" class="sub">Pruebas unitarias, navegador y auditoría previa al despliegue</text>
+    <text x="40" y="293" class="pill-txt">DISCIPLINE: ZERO UNTESTED PUSH</text>
+  </g>
+
+  <!-- Panel derecho superior: Stack principal -->
+  <rect x="424" y="66" width="372" height="118" rx="6" class="card" />
+  <text x="440" y="88" class="label">RUNTIME & INFRASTRUCTURE</text>
+
+  <rect x="440" y="102" width="104" height="24" rx="4" class="pill-bg" />
+  <text x="492" y="118" text-anchor="middle" class="pill-txt">NODE.JS / JS</text>
+
+  <rect x="552" y="102" width="96" height="24" rx="4" class="pill-bg" />
+  <text x="600" y="118" text-anchor="middle" class="pill-txt">SQLITE WAL</text>
+
+  <rect x="656" y="102" width="124" height="24" rx="4" class="pill-bg" />
+  <text x="718" y="118" text-anchor="middle" class="pill-txt">LINUX · SYSTEMD</text>
+
+  <rect x="440" y="136" width="88" height="24" rx="4" class="pill-bg" />
+  <text x="484" y="152" text-anchor="middle" class="pill-txt">CADDY</text>
+
+  <rect x="536" y="136" width="112" height="24" rx="4" class="pill-bg" />
+  <text x="592" y="152" text-anchor="middle" class="pill-txt">APPS SCRIPT</text>
+
+  <rect x="656" y="136" width="124" height="24" rx="4" class="pill-bg" />
+  <text x="718" y="152" text-anchor="middle" class="pill-txt">LLM / VISION API</text>
+
+  <!-- Panel derecho inferior: Distribución por capas del ecosistema -->
+  <rect x="424" y="196" width="372" height="118" rx="6" class="card" />
+  <text x="440" y="218" class="label">ECOSYSTEM LAYERS</text>
+
+  <text x="440" y="242" class="sub">ERP & Backend (KORE)</text>
+  <rect x="610" y="232" width="170" height="10" rx="2" class="bar-track" />
+  <rect x="610" y="232" width="136" height="10" rx="2" class="bar-fill" />
+
+  <text x="440" y="266" class="sub">Automation & AI Pipelines</text>
+  <rect x="610" y="256" width="170" height="10" rx="2" class="bar-track" />
+  <rect x="610" y="256" width="102" height="10" rx="2" class="bar-fill" />
+
+  <text x="440" y="290" class="sub">3D & Workshop Ops</text>
+  <rect x="610" y="280" width="170" height="10" rx="2" class="bar-track" />
+  <rect x="610" y="280" width="85" height="10" rx="2" class="bar-fill" />
+</svg>

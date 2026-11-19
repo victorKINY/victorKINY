@@ -1,14 +1,32 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/hud-panel.svg">
-  <img alt="VICTORKINY // KINYKORE System Panel" src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/hud-panel.svg" width="100%">
-</picture>
+### `VICTORKINY // KINYKORE`
 
-**[victorkiny.com](https://victorkiny.com/)** · **[kore.victorkiny.com](https://kore.victorkiny.com/)** · **[X](https://x.com/victorkinyVK)** · **[YouTube](https://www.youtube.com/@victorkiny)**
+**[WEB](https://victorkiny.com/)** · **[KORE](https://kore.victorkiny.com/)** · **[X](https://x.com/victorkinyVK)** · **[YOUTUBE](https://www.youtube.com/@victorkiny)**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.svg">
+    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.svg" width="400" alt="KORE Core System">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-about.svg">
+    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-about.svg" width="400" alt="Identity and Architecture">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-stack.svg">
+    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-stack.svg" width="400" alt="Runtime and Infrastructure">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-projects.svg">
+    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-projects.svg" width="400" alt="Ecosystem Nodes">
+  </picture>
+</p>
 
 </div>
-
 # ⚡ Software Developer & Autonomous Systems Architect
 
 > Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **<a href="https://victorkiny.com/" target="_blank" rel="noopener noreferrer">victorkiny.com</a>** — Salamanca, España.

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190">
+  <rect x="1" y="1" width="398" height="188" rx="6" fill="#0B0D12" stroke="#3B181E" stroke-width="1.5" />
+  <text x="20" y="28" fill="#EF4444" font-family="monospace" font-size="11" font-weight="bold">RUNTIME AND INFRASTRUCTURE</text>
+  <text x="380" y="28" text-anchor="end" fill="#9CA3AF" font-family="monospace" font-size="10">STACK</text>
+
+  <text x="20" y="60" fill="#F9FAFB" font-family="monospace" font-size="12" font-weight="bold">BACKEND / DATA</text>
+  <rect x="165" y="49" width="215" height="12" rx="2" fill="#1F1215" />
+  <rect x="165" y="49" width="185" height="12" rx="2" fill="#DC2626" />
+
+  <text x="20" y="92" fill="#F9FAFB" font-family="monospace" font-size="12" font-weight="bold">AI / AUTOMATION</text>
+  <rect x="165" y="81" width="215" height="12" rx="2" fill="#1F1215" />
+  <rect x="165" y="81" width="150" height="12" rx="2" fill="#EF4444" />
+
+  <text x="20" y="124" fill="#F9FAFB" font-family="monospace" font-size="12" font-weight="bold">LINUX / CADDY</text>
+  <rect x="165" y="113" width="215" height="12" rx="2" fill="#1F1215" />
+  <rect x="165" y="113" width="165" height="12" rx="2" fill="#B91C1C" />
+
+  <text x="20" y="162" fill="#9CA3AF" font-family="monospace" font-size="10">JS · NODE 22 · SQLITE · SYSTEMD · APPS SCRIPT</text>
+</svg>

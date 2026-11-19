@@ -27,6 +27,8 @@
 </p>
 
 </div>
+
+</div>
 # ⚡ Software Developer & Autonomous Systems Architect
 
 > Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **<a href="https://victorkiny.com/" target="_blank" rel="noopener noreferrer">victorkiny.com</a>** — Salamanca, España.

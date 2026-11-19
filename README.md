@@ -1,3 +1,14 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/hud-panel.svg">
+  <img alt="VICTORKINY // KINYKORE System Panel" src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/hud-panel.svg" width="100%">
+</picture>
+
+**[victorkiny.com](https://victorkiny.com/)** · **[kore.victorkiny.com](https://kore.victorkiny.com/)** · **[X](https://x.com/victorkinyVK)** · **[YouTube](https://www.youtube.com/@victorkiny)**
+
+</div>
+
 # ⚡ Software Developer & Autonomous Systems Architect
 
 > Enfoque estricto en rendimiento crítico, arquitecturas modulares y control absoluto del dato. Desarrollos orientados y servidos desde **<a href="https://victorkiny.com/" target="_blank" rel="noopener noreferrer">victorkiny.com</a>** — Salamanca, España.

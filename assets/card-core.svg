@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190">
+  <rect x="1" y="1" width="398" height="188" rx="6" fill="#0B0D12" stroke="#3B181E" stroke-width="1.5" />
+  <text x="20" y="28" fill="#EF4444" font-family="monospace" font-size="11" font-weight="bold">CORE SYSTEM // KORE</text>
+  <text x="380" y="28" text-anchor="end" fill="#9CA3AF" font-family="monospace" font-size="10">01/04</text>
+
+  <text x="20" y="62" fill="#F9FAFB" font-family="monospace" font-size="22" font-weight="bold">NODE 22 + WAL</text>
+  <text x="20" y="84" fill="#FCA5A5" font-family="monospace" font-size="11">ISOLATED SQLITE PER INSTANCE</text>
+
+  <line x1="20" y1="104" x2="380" y2="104" stroke="#261317" stroke-width="1" />
+
+  <text x="20" y="128" fill="#D1D5DB" font-family="monospace" font-size="11">MODULES: CLIENTS · AGENDA · BILLING · PDF</text>
+  <text x="20" y="148" fill="#D1D5DB" font-family="monospace" font-size="11">SECURITY: RBAC · AUDIT LOG · ENCRYPTED</text>
+  <text x="20" y="168" fill="#EF4444" font-family="monospace" font-size="11" font-weight="bold">STATUS: GATE 4 VPS VALIDATION</text>
+</svg>

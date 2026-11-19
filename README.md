@@ -5,28 +5,25 @@
 **[WEB](https://victorkiny.com/)** · **[KORE](https://kore.victorkiny.com/)** · **[X](https://x.com/victorkinyVK)** · **[YOUTUBE](https://www.youtube.com/@victorkiny)**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.svg">
-    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.svg" width="400" alt="KORE Core System">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-about.svg">
-    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-about.svg" width="400" alt="Identity and Architecture">
-  </picture>
+  <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-core.gif" width="400" alt="KORE Core System">
+  <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-about.gif" width="400" alt="Identity and Architecture">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-stack.svg">
-    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-stack.svg" width="400" alt="Runtime and Infrastructure">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-projects.svg">
-    <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-projects.svg" width="400" alt="Ecosystem Nodes">
-  </picture>
+  <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-stack.gif" width="400" alt="Runtime and Infrastructure">
+  <img src="https://raw.githubusercontent.com/victorKINY/victorKINY/main/assets/card-projects.gif" width="400" alt="Ecosystem Nodes">
 </p>
 
 </div>
+
+---
+
+### `SYSTEMS & ARCHITECTURE`
+
+* **KORE:** Modular self-hosted operations ERP (`Node.js 22`, `SQLite WAL`, `systemd`, `Caddy`).
+* **Agente de Notas IA:** Automated pipeline routing captured notes to Calendar, Tasks, and Sheets (`Google Apps Script`, `Gemini API`).
+* **KINY3D:** Functional CAD design, slicing, and 3D-printed hardware workflows (`Fusion 360`, `Bambu Studio`, `PLA / PETG / ABS / ASA`).
+* **AJ Motors:** Workshop web presence and self-hosted deployment (`WordPress`, `Linux VPS`).
 
 </div>
 # ⚡ Software Developer & Autonomous Systems Architect
